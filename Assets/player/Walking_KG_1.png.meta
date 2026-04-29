@@ -136,7 +136,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 116
+        width: 100
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -156,9 +156,9 @@ TextureImporter:
       name: Walking_KG_1_1
       rect:
         serializedVersion: 2
-        x: 116
+        x: 100
         y: 0
-        width: 116
+        width: 100
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -178,9 +178,9 @@ TextureImporter:
       name: Walking_KG_1_2
       rect:
         serializedVersion: 2
-        x: 232
+        x: 200
         y: 0
-        width: 116
+        width: 100
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -200,9 +200,9 @@ TextureImporter:
       name: Walking_KG_1_3
       rect:
         serializedVersion: 2
-        x: 348
+        x: 300
         y: 0
-        width: 116
+        width: 100
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -222,9 +222,9 @@ TextureImporter:
       name: Walking_KG_1_4
       rect:
         serializedVersion: 2
-        x: 464
+        x: 400
         y: 0
-        width: 116
+        width: 100
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -244,9 +244,9 @@ TextureImporter:
       name: Walking_KG_1_5
       rect:
         serializedVersion: 2
-        x: 580
+        x: 500
         y: 0
-        width: 116
+        width: 100
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -258,6 +258,28 @@ TextureImporter:
       bones: []
       spriteID: aa4109c2cb9904c80800000000000000
       internalID: -8340497476409617238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking_KG_1_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4dfdaa007489d4986a9adc8c12e45e
+      internalID: 906691785
       vertices: []
       indices: 
       edges: []
@@ -276,7 +298,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":1.0},"gridSpriteSize":{"x":116.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Walking_KG_1_0: -8526924235537896037
       Walking_KG_1_1: -7127673563720156795
@@ -284,6 +306,7 @@ TextureImporter:
       Walking_KG_1_3: -4821684825124360125
       Walking_KG_1_4: 6457927373338470402
       Walking_KG_1_5: -8340497476409617238
+      Walking_KG_1_6: 906691785
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
